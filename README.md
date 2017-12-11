@@ -47,6 +47,7 @@ A equipe deverá entregar o backend do sistema em Django. Os entregáveis estão
 - [ ] Todos os models criados (o objeto - carro ou casa - e o usuário) _(se a equipe achar necessário, pode criar quantos outros quiser, por exemplo, um model que registre os aluguéis feitos com dois FKs: casa/carro e usuário)_
 - [ ] Sistema de autenticação funcional (login, cadastro, logout)
 - [ ] Urls, views e templates básicas (não precisa estar estilizado) para cada aplicação
+
 Nota: Em resumo, o sistema deve estar completamente funcional, faltando apenas estilização e implementação de responsividade
 
 ### 💻 Segunda semana: Frontend
